@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mendoitarou
+- 🌱 I’m currently learning ... Java,Javascript,PHP,HTML,CSS...
+- 📫 How to reach me ... contact@mendoitarou.com
+- Member of "tarou software"
