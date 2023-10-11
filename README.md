@@ -17,3 +17,5 @@
 ![mendoitarou](https://count.getloli.com/get/@mendoitarou?theme=rule34)
 
 </details>
+
+GPG署名されてないコミットが一部存在します。設定ミスです。
