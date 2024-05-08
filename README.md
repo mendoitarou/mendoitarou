@@ -20,9 +20,15 @@
 
 <details open>
 <summary>My Public Keys</summary>
+  
   [MyTopPage](https://mendoitarou.com/)
+  
   [PGP Public Key - MyServer](https://files.mendoitarou.com/Public/Public_Key/key.pem)
+  
   [SSH Public Keys - MyServer](https://files.mendoitarou.com/Public/Public_Key/ssh_public_key.pub)
+  
   [PGP Public Key - GitHub](https://github.com/mendoitarou/mendoitarou/blob/main/PGP_Public_Key.pem)
+  
   [SSH Public Keys - GitHub](https://github.com/mendoitarou/mendoitarou/blob/main/SSH_Public_Key.pub)
+  
 </details>
