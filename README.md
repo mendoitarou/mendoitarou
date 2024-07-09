@@ -30,6 +30,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [2023 Advent Calendar完走の感想&lpar;振り返り&rpar;](https://qiita.com/mendoitarou_/items/1aaa112ce5c37be9f343)
+- [ChromeBookで挫折したこと](https://qiita.com/mendoitarou_/items/0c81b98501b93e39aa42)
+- [Ubuntu20.04.6 LTSにOpenVPNでVPNサーバーを建てる](https://qiita.com/mendoitarou_/items/c22d5f5b3b8e36b6087b)
+- [ChromeBookでRaspberryPiZeroWにvolumioセットアップ](https://qiita.com/mendoitarou_/items/68600f98c2cd2564417a)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
