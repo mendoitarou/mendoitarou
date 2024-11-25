@@ -28,7 +28,7 @@
 
 - 🎮 Play Minecraft, osu!, Genshin Impact, heavenBurnsRed, Honkai Impact 3rd, Honkai: Star Rail, Zenless Zone Zero, etc...
 
-- I am a student. (Expected to graduate in March 2026.)
+- I am a student. (Expected to graduate in March 2027.)
 
 ### Qiita posts
 <details open>
@@ -45,6 +45,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://misskey.io/@mendoitarou_" target="blank"><img align="center" src="https://raw.githubusercontent.com/mendoitarou/mendoitarou/refs/heads/main/assets/misskey_icon.png" alt="@mendoitarou_@misskey.io" height="40" width="40" /></a>
+<a href="https://bsky.app/profile/mendoitarou.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/mendoitarou/mendoitarou/refs/heads/main/assets/Bluesky_icon.png" alt="@mendoitarou.com" height="40" width="40" /></a>
 <a href="https://twitter.com/mendoitarou_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mendoitarou_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@mendoitarou_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mendoitarou_" height="30" width="40" /></a>
 <a href="https://qiita.com/mendoitarou_/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://qiita.com/mendoitarou_/feed" height="30" width="40" /></a>
