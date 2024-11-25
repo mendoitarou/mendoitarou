@@ -10,7 +10,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mendoitarou" alt="mendoitarou" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mendoitarou_" target="blank"><img src="https://img.shields.io/twitter/follow/mendoitarou_?logo=twitter&style=for-the-badge" alt="mendoitarou_" /></a> </p>
+<p align="left"> <a href="https://github.com/sponsors/mendoitarou/" target="blank"><img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/mendoitarou?style=for-the-badge&logo=githubsponsors" \></a> (Currently not available.)</p>
+
+<p align="left"> <a href="https://twitter.com/mendoitarou_" target="blank"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/mendoitarou_?style=for-the-badge&logo=X" alt="@mendoitarou_" />
+</a> <a href="https://github.com/mendootarou/" target="blank"><img alt="GitHub followers" src="https://img.shields.io/github/followers/mendoitarou?style=for-the-badge&logo=Github"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/mendoitarou?style=for-the-badge&logo=Github"></a> <a href="https://home.mendoitarou.com/" target="blank"><img alt="Mozilla HTTP Observatory Grade" src="https://img.shields.io/mozilla-observatory/grade-score/home.mendoitarou.com?style=for-the-badge&logo=homepage" /></a> </p>
 
 - 🔭 I’m currently working on **mendoichat**
 
