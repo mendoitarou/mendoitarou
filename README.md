@@ -63,15 +63,33 @@
 
 <details open>
 <summary>My Public Keys</summary>
+
+  PGP Key Signature: ``5586BF2705B42027D623BF4CF5058F532BE45F4F``
+
+  SSH Key Signature: ``SHA256:PdxkE5shUEpwDxXIERL3wEEgh8L4fjavUZ7Hd15WhpE``
   
   [MyTopPage](https://mendoitarou.com/)
+
+  [MySubPage](https://xn--f9j7crbw.jp)
   
+  <details>
+  <summary>PGP Public Keys</summary>
+    
   [PGP Public Key - MyServer](https://files.mendoitarou.com/Public/Public_Key/key.pem)
-  
-  [SSH Public Keys - MyServer](https://files.mendoitarou.com/Public/Public_Key/ssh_public_key.pub)
-  
+    
+  [PGP Public Key - MySubServer](https://xn--f9j7crbw.jp/keys/PGP_Public_Key.pem)
+    
   [PGP Public Key - GitHub](https://github.com/mendoitarou/mendoitarou/blob/main/PGP_Public_Key.pem)
-  
-  [SSH Public Keys - GitHub](https://github.com/mendoitarou/mendoitarou/blob/main/SSH_Public_Key.pub)
+  </details>
+
+  <details>
+  <summary>SSH Public Keys</summary>
+
+  [SSH Public Key - MyServer](https://files.mendoitarou.com/Public/Public_Key/ssh_public_key.pub)
+
+  [SSH Public Key - MySubServer](https://xn--f9j7crbw.jp/keys/SSH_Public_Key.pub)
+
+  [SSH Public Key - GitHub](https://github.com/mendoitarou/mendoitarou/blob/main/SSH_Public_Key.pub)
+  </details>
   
 </details>
