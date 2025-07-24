@@ -33,18 +33,15 @@
 
 - I am a student. (Expected to graduate in March 2027.)
 
+<!--
 ### Qiita posts
 <details open>
-<summary>Qiita posts</summary>
+<summary>Qiita posts</summary>-->
 
 <!-- BLOG-POST-LIST:START -->
-- [ConoHaのオブジェクトストレージを使ってみる](https://qiita.com/mendoitarou_/items/d027a8a36980e2b286eb)
-- [ConoHa for GAMEで統合版マインクラフトサーバを1ヶ月借りてみた](https://qiita.com/mendoitarou_/items/d0f478fa3841c45a0b56)
-- [2023 Advent Calendar完走の感想&lpar;振り返り&rpar;](https://qiita.com/mendoitarou_/items/1aaa112ce5c37be9f343)
-- [ChromeBookで挫折したこと](https://qiita.com/mendoitarou_/items/0c81b98501b93e39aa42)
 <!-- BLOG-POST-LIST:END -->
 
-</details>
+<!--</details>-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
