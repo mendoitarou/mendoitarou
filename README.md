@@ -15,7 +15,9 @@
 <p align="left"> <a href="https://twitter.com/mendoitarou_" target="blank"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/mendoitarou_?style=for-the-badge&logo=X" alt="@mendoitarou_" />
 </a> <a href="https://github.com/mendootarou/" target="blank"><img alt="GitHub followers" src="https://img.shields.io/github/followers/mendoitarou?style=for-the-badge&logo=Github"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/mendoitarou?style=for-the-badge&logo=Github"></a> <a href="https://home.mendoitarou.com/" target="blank"><img alt="Mozilla HTTP Observatory Grade" src="https://img.shields.io/mozilla-observatory/grade-score/home.mendoitarou.com?style=for-the-badge&logo=homepage" /></a> </p>
 
-- 🔭 I’m currently working on **mendoichat**
+- よわよわ個人開発者
+
+- 🔭 I’m currently working on **MincraMagics**, **Discord_Tool_Bot**, **mendoichat**
 
 - 🌱 I’m currently learning **C, C++, C#, Nuxt.js, Java, Javascript, PHP, HTML, CSS, Python, ...**
 
