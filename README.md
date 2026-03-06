@@ -54,9 +54,7 @@
 <a href="https://qiita.com/mendoitarou_/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://qiita.com/mendoitarou_/feed" height="30" width="40" /></a>
 </p>
 
-<p>![Stats](./profile/stats.svg)</p>
-
-<p>&nbsp;![Top Languages](./profile/top-lang.svg)</p>
+![Stats](./profile/stats.svg) &nbsp; ![Top Languages](./profile/top-lang.svg)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mendoitarou&theme=dark" alt="mendoitarou" /></p>
 
