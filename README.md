@@ -54,9 +54,9 @@
 <a href="https://qiita.com/mendoitarou_/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://qiita.com/mendoitarou_/feed" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mendoitarou&show_icons=true&theme=dark&locale=en&layout=compact" alt="mendoitarou" /></p>
+<p>![Stats](./profile/stats.svg)</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mendoitarou&show_icons=true&theme=dark&locale=en" alt="mendoitarou" /></p>
+<p>&nbsp;![Top Languages](./profile/top-lang.svg)</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mendoitarou&theme=dark" alt="mendoitarou" /></p>
 
