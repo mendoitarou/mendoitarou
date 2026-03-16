@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **contact@mendoitarou.com**
 
-- 📄 Know about my experiences [https://home.mendoitarou.com/experience](https://home.mendoitarou.com/experience) (This page is currently under construction.)
+- 📄 Know about my experiences [https://work.mendoitarou.com/](https://work.mendoitarou.com/) (This page is currently under construction.)
 
 - Member of "[tarou software](https://github.com/tarou-software)"
 
