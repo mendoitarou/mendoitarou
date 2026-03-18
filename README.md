@@ -8,7 +8,7 @@
 
 </details>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mendoitarou" alt="mendoitarou" /></a> </p>
+![Trophy](./profile/trophy.svg)
 
 <p align="left"> <a href="https://github.com/sponsors/mendoitarou/" target="blank"><img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/mendoitarou?style=for-the-badge&logo=githubsponsors" \></a> </p>
 
@@ -17,7 +17,7 @@
 
 - よわよわ個人開発者
 
-- 🔭 I’m currently working on **MincraMagics**, **Discord_Tool_Bot**, **mendoichat**
+- 🔭 I’m currently working on **[work.mendoitarou.com](https://github.com/mendoitarou/work.mendoitarou.com)**, **MincraMagics**, **[Discord_Tool_Bot](https://github.com/mendoitarou/Discord_Tool_Bot)**, **mendoichat**
 
 - 🌱 I’m currently learning **C, C++, C#, Nuxt.js, Java, Javascript, PHP, HTML, CSS, Python, ...**
 
